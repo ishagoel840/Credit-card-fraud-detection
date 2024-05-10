@@ -1,5 +1,6 @@
 # Credit-card-fraud-detection
 ###### Tools Used: Machine learning Models
+![Credit card fraud](https://github.com/ishagoel840/Credit-card-fraud-detection/assets/163164421/f8859914-d47c-4486-93d9-30855dc8482c)
 
 
 ## Problem Statement:
