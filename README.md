@@ -15,3 +15,30 @@ The dataset is taken from kaggle [here](https://www.kaggle.com/datasets/mlg-ulb/
 ## Content:
 It contains only numerical input variables which are the result of a PCA transformation. Unfortunately, due to confidentiality issues, we cannot provide the original features and more background information about the data. Features V1, V2, … V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-sensitive learning. Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
+## Approach:
+### Exploratory Data Analysis (EDA):
+
+Conduct comprehensive exploratory data analysis to understand the distribution of fraudulent and non-fraudulent transactions.
+Visualized transaction features such as amount, time, and transaction type to identify patterns and anomalies.
+### Data Preprocessing:
+
+Handled missing or erroneous values in the dataset.
+Addressed class imbalance using techniques such as oversampling, undersampling, or synthetic data generation.
+### Feature Engineering:
+
+Extracted relevant features from the dataset, including transaction amount, time of transaction, and frequency of transactions.
+Normalized or scaled features to enhance model performance.
+### Model Selection and Training:
+
+Experiment with various classification algorithms suitable for imbalanced datasets, such as Logistic Regression, Random Forest, Gradient Boosting, or Support Vector Machines.
+Utilized cross-validation and hyperparameter tuning to optimize model performance.
+Evaluate models based on metrics like precision, recall, F1-score, and area under the ROC curve (AUC-ROC).
+### Model Evaluation and Validation:
+
+Validate trained models using a separate test dataset or through cross-validation.
+Assess model performance in terms of its ability to accurately classify fraudulent and non-fraudulent transactions while minimizing false positives and false negatives.
+### Deployment and Monitoring:
+
+Deploy the trained model into production systems for real-time fraud detection.
+Implement monitoring mechanisms to track model performance over time and update the model as needed to adapt to evolving fraud patterns.
+
