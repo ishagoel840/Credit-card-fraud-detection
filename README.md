@@ -71,6 +71,6 @@ Implement monitoring mechanisms plan to track model performance over time and up
 
 
 
-### KNN Model shows the highest accuracy score with an accuracy of 99.99%.
+- ### KNN Model shows the highest accuracy score with an accuracy of 99.99%.
 
 
