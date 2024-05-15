@@ -53,6 +53,7 @@ Assess model performance in terms of its ability to accurately classify fraudule
 ### Deployment and Monitoring:
 
 Deployment plan to the trained model into production systems for real-time fraud detection.
+
 Implement monitoring mechanisms plan to track model performance over time and update the model as needed to adapt to evolving fraud patterns.
 
 # Conclusion:
