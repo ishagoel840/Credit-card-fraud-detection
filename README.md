@@ -66,4 +66,11 @@ Implement monitoring mechanisms plan to track model performance over time and up
 |2	|XGBoost|	0.990064|	0.993775|	0.986345|	0.986345|
 |---|---|---|---|---|---|
 
+
+
+
+
+
 ### KNN Model shows the highest accuracy score with an accuracy of 99.99%
+
+
