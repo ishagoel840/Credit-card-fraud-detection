@@ -3,7 +3,7 @@ Credit card fraud is one of the most common online scams. Credit card numbers, P
 
 ![ccd](https://github.com/ishagoel840/Credit-card-fraud-detection/assets/163164421/f66f76e4-15b3-4cc2-8aee-991923e1bed6)
 
-
+###### Tools Used: Machine Learning Models, python,Jupyter Notebook
 ## Problem Statement:
 A credit card 💳 is one of the most used financial products to make online purchases and payments. Though the Credit cards can be a convenient way to manage your finances, they can also be risky. Credit card fraud is the unauthorized use of someone else's credit card or credit card information to make purchases or withdraw cash.
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. 
