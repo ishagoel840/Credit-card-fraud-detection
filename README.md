@@ -58,6 +58,14 @@ Deployment plan to the trained model into production systems for real-time fraud
 
 Implement monitoring mechanisms plan to track model performance over time and update the model as needed to adapt to evolving fraud patterns.
 
+## Model Used:
+```
+- Logistic Regression
+
+- KNN
+
+- XGBoost
+```
 # Conclusion:
 |S.no.|Model|	Accuracy|	Precision|	Recall|	F1 Score|
 |---|---|---|---|---|---|
