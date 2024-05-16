@@ -22,10 +22,10 @@ Conduct comprehensive exploratory data analysis to understand the distribution o
 
 Visualized transaction features such as amount, time, and transaction type to identify patterns and anomalies.
 
-Univarient and Bivarient Analysis.
+Univariant and Bivariant Analysis.
 
 ### - Dealing with Imbalanced data: 
-This data set is highly imbalanced. Addressed class imbalance using techniques such as oversampling, undersampling, or synthetic data generation.
+This data set is highly imbalanced. Addressed class imbalance using techniques such as oversampling, under sampling, or synthetic data generation.
 
 ### - Data Preprocessing:
 
