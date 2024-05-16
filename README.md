@@ -60,11 +60,8 @@ Implement monitoring mechanisms plan to track model performance over time and up
 |S.no.|Model|	Accuracy|	Precision|	Recall|	F1 Score|
 |---|---|---|---|---|---|
 |0	|Logistic Regression|	0.981614|	0.988101|	0.975042|	0.975042|
-|---|---|---|---|---|---|
 |1	|KNN	|0.999165|	0.998335	|1.0	|1.0|
-|---|---|---|---|---|---|
 |2	|XGBoost|	0.990064|	0.993775|	0.986345|	0.986345|
-|---|---|---|---|---|---|
 
 
 
