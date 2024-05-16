@@ -22,6 +22,8 @@ Conduct comprehensive exploratory data analysis to understand the distribution o
 
 Visualized transaction features such as amount, time, and transaction type to identify patterns and anomalies.
 
+Univarient and Bivarient Analysis.
+
 ### - Dealing with Imbalanced data: 
 This data set is highly imbalanced. Addressed class imbalance using techniques such as oversampling, undersampling, or synthetic data generation.
 
@@ -68,6 +70,6 @@ Implement monitoring mechanisms plan to track model performance over time and up
 
 
 
-- ### KNN Model shows the highest accuracy score with an accuracy of 99.99%.
+- ### 🏆🏆 KNN Model shows the highest accuracy score with an accuracy of 99.99%.
 
 
