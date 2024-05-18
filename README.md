@@ -12,13 +12,13 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 
 The dataset is taken from kaggle [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
-## Content:
+## Dataset:
 It contains only numerical input variables which are the result of a PCA transformation. Unfortunately, due to confidentiality issues, we cannot provide the original features and more background information about the data. Features V1, V2, … V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependent cost-sensitive learning. **Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.**
 
 ## Model Pipeline:
 ### - Exploratory Data Analysis (EDA):
 
-Conduct comprehensive exploratory data analysis to understand the distribution of fraudulent and non-fraudulent transactions.
+Conducted comprehensive exploratory data analysis to understand the distribution of fraudulent and non-fraudulent transactions.
 
 Visualized transaction features such as amount, time, and transaction type to identify patterns and anomalies.
 
